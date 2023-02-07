@@ -1,0 +1,23 @@
+.show-form {
+  display: block;
+}
+.hide-form {
+  display: none;
+}
+
+.button {
+  background: #673ab7;
+  color: white;
+  &:hover {
+    color: white;
+    background: #866db1;
+  }
+}
+
+.text-custom {
+  color: #673ab7;
+}
+
+.tick-sign {
+  font-size: 15rem;
+}

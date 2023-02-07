@@ -1,0 +1,3 @@
+export const SAMPLE_META_KEY = {
+  SAMPLE_META_KEY: 'SAMPLE_META_KEY'
+};
